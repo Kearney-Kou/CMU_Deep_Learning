@@ -1,0 +1,11 @@
+# 先忽略根目录下的所有东西
+/*
+
+# 只放行这几个
+!/.gitignore
+!/lab/
+!/lecture pdf/
+
+# 杂项
+.DS_Store
+.ipynb_checkpoints/
